@@ -1,3 +1,3 @@
 provider "oci" {
-  region = "sa-east-1" 
+  region = "sa-saopaulo-1" 
 }
